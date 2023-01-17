@@ -1,6 +1,6 @@
 actor {
 
-  // challenge  1 :
+  // challenge no 1 :
 
   public query func multiply(n : Nat, m : Nat) : async Nat {
 
